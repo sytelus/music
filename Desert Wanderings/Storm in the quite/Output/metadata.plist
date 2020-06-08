@@ -45,7 +45,7 @@
 	<key>com_apple_garageband_metadata_numberOfVisibleArrangeTracks</key>
 	<integer>20</integer>
 	<key>com_apple_garageband_metadata_songDuration</key>
-	<real>116.941179138322</real>
+	<real>114.11764172335602</real>
 	<key>com_apple_garageband_metadata_songGender</key>
 	<string>minor</string>
 	<key>com_apple_garageband_metadata_songKey</key>
@@ -67,7 +67,7 @@
 	<key>com_apple_mobilegarageband_metadata_songVersionNumber</key>
 	<integer>12</integer>
 	<key>kDfMetaDataKey_numberOfRootRegions</key>
-	<integer>26</integer>
+	<integer>28</integer>
 	<key>plistVersion</key>
 	<integer>1050</integer>
 </dict>
